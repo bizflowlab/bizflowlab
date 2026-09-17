@@ -1,16 +1,13 @@
-## Hi there 👋
+BizFlowLab
 
-<!--
-**bizflowlab/bizflowlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Automation & Workflow Builder
 
-Here are some ideas to get you started:
+I build practical automation systems using n8n, APIs, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focus
+n8n · API Integration · Workflow Automation · AI-assisted Systems · SaaS
+
+Current Project
+Customer Inquiry Operations Automation
+
+I use AI-assisted development while personally handling requirements, architecture, integration, testing, debugging, and final validation.
